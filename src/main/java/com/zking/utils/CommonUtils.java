@@ -1,4 +1,4 @@
-package com.zking;
+package com.zking.utils;
 
 public class CommonUtils{
   public static void main(String[] args){
